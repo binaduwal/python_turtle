@@ -4,10 +4,10 @@ Python turtle project
 
 ## Import Modules:
 
-The code starts by importing necessary modules from the Turtle graphics library:
-Turtle: Used for creating turtle graphics objects.
-colormode: Sets the color mode to use RGB values.
-Screen: Provides the main game window.
+The code starts by importing necessary modules from the Turtle graphics library:  
+1.Turtle: Used for creating turtle graphics objects.  
+2.colormode: Sets the color mode to use RGB values.  
+3.Screen: Provides the main game window.
 
 ## CarCreater Class:
 
