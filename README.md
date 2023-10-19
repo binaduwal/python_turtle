@@ -33,7 +33,8 @@ It inherits from the Turtle class.
 It keeps track of the player's score (player_1).
 The update method displays the player's score on the screen.
 The increase_1 method increments the player's score and updates the display.
-Game Setup:
+
+## Game Setup:
 
 A game window is created using the Screen class. It's set to 600x600 pixels in size and configured not to automatically update the screen (hence screen.tracer(0)).
 Instances of the Player, CarCreater, and ScoreBoard classes are created.
